@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend FInder assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ian-Maynard/Friendfinder.git"
+  },
+  "author": "Ian Maynard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ian-Maynard/Friendfinder/issues"
+  },
+  "homepage": "https://github.com/Ian-Maynard/Friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
