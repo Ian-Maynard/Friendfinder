@@ -1,0 +1,14 @@
+.row{
+    /* required to work */
+    display: table;
+    width: 100%;
+}
+
+.box{
+    background: #dddddd;
+    height: 50px;
+    border: 1px solid #000000;
+    
+    /* required to work */
+    display: table-cell;
+}
